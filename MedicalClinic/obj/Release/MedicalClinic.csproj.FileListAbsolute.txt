@@ -1,0 +1,3 @@
+/Users/nik/Projects/MedicalClinic/MedicalClinic/bin/Release/MedicalClinic.exe
+/Users/nik/Projects/MedicalClinic/MedicalClinic/obj/Release/MedicalClinic.csproj.CoreCompileInputs.cache
+/Users/nik/Projects/MedicalClinic/MedicalClinic/obj/Release/MedicalClinic.exe

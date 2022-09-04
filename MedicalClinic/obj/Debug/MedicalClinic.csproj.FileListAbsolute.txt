@@ -1,0 +1,6 @@
+/Users/nik/Projects/MedicalClinic/MedicalClinic/obj/Debug/MedicalClinic.csproj.AssemblyReference.cache
+/Users/nik/Projects/MedicalClinic/MedicalClinic/obj/Debug/MedicalClinic.csproj.CoreCompileInputs.cache
+/Users/nik/Projects/MedicalClinic/MedicalClinic/bin/Debug/MedicalClinic.exe
+/Users/nik/Projects/MedicalClinic/MedicalClinic/bin/Debug/MedicalClinic.pdb
+/Users/nik/Projects/MedicalClinic/MedicalClinic/obj/Debug/MedicalClinic.exe
+/Users/nik/Projects/MedicalClinic/MedicalClinic/obj/Debug/MedicalClinic.pdb

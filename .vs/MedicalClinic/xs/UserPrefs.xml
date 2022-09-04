@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{82EE9140-59B0-4F05-99BA-085327DAE9E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.MedicalClinic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MedicalClinic/Program.cs">
+    <Files>
+      <File FileName="MedicalClinic/Program.cs" Line="6" Column="82" />
+      <File FileName="MedicalClinic/Domain/SurgeonConsult.cs" Line="19" Column="43" />
+      <File FileName="MedicalClinic/Domain/Ophtalmologist.cs" />
+      <File FileName="MedicalClinic/Domain/OphtalmoConsult.cs" Line="19" Column="43" />
+      <File FileName="MedicalClinic/Domain/NeuroConsult.cs" Line="19" Column="43" />
+      <File FileName="MedicalClinic/Domain/CardioConsult.cs" Line="21" Column="30" />
+      <File FileName="MedicalClinic/Factories/ConsultationFactory.cs" Line="12" Column="1" />
+      <File FileName="MedicalClinic/Factories/SurgeonConsultFarctory.cs" Line="19" Column="45" />
+      <File FileName="MedicalClinic/Factories/OphtalmoConsultFactory.cs" Line="27" Column="2" />
+      <File FileName="MedicalClinic/Factories/NeuroConsultFactory.cs" Line="14" Column="28" />
+      <File FileName="MedicalClinic/Factories/CardioConsultFactory.cs" Line="27" Column="2" />
+      <File FileName="MedicalClinic/Domain/IConsultation.cs" Line="12" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MedicalClinic" expanded="True">
+            <Node name="MedicalClinic" expanded="True">
+              <Node name="Domain" expanded="True" />
+              <Node name="Factories" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
